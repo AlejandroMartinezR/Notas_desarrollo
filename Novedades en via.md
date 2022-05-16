@@ -10,7 +10,7 @@
 
 ### Algoritmo Inicio Vista
 
-Incia vista  
+Inicia vista  
 Coloca el nombre a el panel  
 _vista_llama funcion get_datos_seguimiento()
     llama al _controlador_ funcion get_datos_full() [no envia datos]  
